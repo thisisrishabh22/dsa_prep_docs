@@ -147,10 +147,14 @@ Memory Usage: `54.4 MB`, less than `97.14%` of Java online submissions for Conta
 #
 
 ### Time Complexity:
-`o(n)` for all the solutions
+1. Sorting & Checking: `o(nlogn)`
+2. Hash Map: `o(n)`
+3. Hash Set: `o(n)`
 
 ### Space Complexity:
-`o(n)` for all the solutions
+1. Sorting & Checking: `o(1)`
+2. Hash Map: `o(n)`
+3. Hash Set: `o(n)`
 
 ### Recommended Solution:
 
