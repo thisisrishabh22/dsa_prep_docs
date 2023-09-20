@@ -61,9 +61,9 @@ class Solution {
 
 #### Performance Analysis:
 
-Runtime: `3 ms`, faster than `90.79%` of Java online submissions for Contains Duplicate.
+Runtime: `3 ms`, faster than `90.79%` of Java online submissions for Valid Anagram.
 
-Memory Usage: `43.3 MB`, less than `62.47%` of Java online submissions for Contains Duplicate.
+Memory Usage: `43.3 MB`, less than `62.47%` of Java online submissions for Valid Anagram.
 
 #
 
@@ -109,9 +109,9 @@ class Solution {
 
 #### Performance Analysis:
 
-Runtime: `24 ms`, faster than `9.36%` of Java online submissions for Contains Duplicate.
+Runtime: `24 ms`, faster than `9.36%` of Java online submissions for Valid Anagram.
 
-Memory Usage: `41.8 MB`, less than `97.95%` of Java online submissions for Contains Duplicate.
+Memory Usage: `41.8 MB`, less than `97.95%` of Java online submissions for Valid Anagram.
 
 #
 
@@ -157,9 +157,9 @@ class Solution {
 
 #### Performance Analysis:
 
-Runtime: `5 ms`, faster than `54.71%` of Java online submissions for Contains Duplicate.
+Runtime: `5 ms`, faster than `54.71%` of Java online submissions for Valid Anagram.
 
-Memory Usage: `41.3 MB`, less than `99.81%` of Java online submissions for Contains Duplicate.
+Memory Usage: `41.3 MB`, less than `99.81%` of Java online submissions for Valid Anagram.
 
 #
 
