@@ -190,7 +190,7 @@ Memory Usage: `43.6 MB`, less than `72.93%` of Java online submissions for Two S
 
 ### Recommended Solution:
 
-Hash Table
+HashMap (1 Loop)
 
 ### Related Links:
 1. [Problem on LeetCode](https://leetcode.com/problems/two-sum/)
